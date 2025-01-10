@@ -9,4 +9,4 @@ Implementation of pricing VIX term structure under SV models (INCOMPLETE version
 
 ## What we do
   - Derived a analytical formula of VIX under LHeston model, which can be seen as an analytical approximation for pricing VIX under rHeston model (the formula isAn verified through degenerated cases and Monte Carlo simulation);
-  - Conducted an empirical analysis of the pricing performance of the VIX term structure for several commonly used continuous-time stochastic volatility models, including Heston, Bates, SVCJ, and LHeston.
+  - Conducted an specification analysis by comparing the pricing performance of the VIX term structure for several commonly used continuous-time stochastic volatility models, including Heston, Bates, SVCJ, and LHeston.
